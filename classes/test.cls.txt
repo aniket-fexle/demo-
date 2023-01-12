@@ -1,0 +1,5 @@
+public class test {
+string str 1 = 'Associate';
+string str 2 = 'Software';
+string str 3 = 'Engineer';
+}
