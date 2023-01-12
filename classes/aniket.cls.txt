@@ -1,0 +1,5 @@
+public class aniket {
+    string str1 = 'aniket';
+    string str2 = 'kumar';
+    string str3 = 'singh'; 
+}
